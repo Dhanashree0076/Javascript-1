@@ -30,10 +30,10 @@ let ope2 = prompt("enter second value : ")
 let numberOPE1 = parseInt(ope1)
 let numberOPE2 = parseInt(ope2)
 
-console.log("addition : " + (numberOPE1 + numberOPE2))
-conletsole.log("subtraction : " + (numberOPE1  - numberOPE1))   
-console.log("multiplication : " + (numberOPE1 * numberOPE2))
-console.log("division : " + (numberOPE1 / numberOPE2))
-console.log("modulus : " +(numberOPE1 % numberOPE2))
+console.log("addition : "  (numberOPE1 + numberOPE2))
+conletsole.log("subtraction : "  (numberOPE1  - numberOPE1))   
+console.log("multiplication : "  (numberOPE1 * numberOPE2))
+console.log("division : "  (numberOPE1 / numberOPE2))
+console.log("modulus : " (numberOPE1 % numberOPE2))
 
 
