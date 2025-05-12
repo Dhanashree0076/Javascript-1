@@ -37,6 +37,3 @@
 // grade.push()
 
 // console.log(grade)
-
-
-let name =[]
